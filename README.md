@@ -15,3 +15,6 @@ pod 'MaterialComponents/Cards' (Component Card: https://material.io/develop/ios/
 
 #### Install Pod
 $ pod install
+
+## Project Base.
+Creación de una tarjeta de presentación usando CardView (implementación de pod Cards). Se le agrega un efecto al mostrarla.
